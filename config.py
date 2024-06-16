@@ -10,10 +10,10 @@ BOT_USERNAME = os.environ.get('BOT_USERNAME', "CelestialButcherBot")
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "mawhOrzzBackUp2")
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002229216652"))
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://aayushraj0281:UDgE6cYzPVNGlV0W@cluster0.ht9qb6s.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DB_NAME = os.environ.get("DB_NAME", "aayushraj0281")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://dhakeddeendayal27:deenu24@cluster0.c7sdmgm.mongodb.net/?retryWrites=true&w=majority")
+DB_NAME = os.environ.get("DB_NAME", "dhakeddeendayal27")
 
-STRING = os.environ.get("STRING", "BQCd9glgtqlqr8CcPs8AksC8x9Q2XNlD2fSnTLa959-25qwbiANCCDy_yWLxqWNPFwVgdJVKVR-aK_pIqbgO9nGC1dh5X_7u7-2ox56j9EyUU8ob0EnZQ2jl6a0ltm7IPozlI3Q_3n2O4ja0f09uXZELaWe2oNuNN3MRh8FSmVHnx1_lbBfntgkV44RpALv56VQ8xFcVM2Ugjb6bO6qveMpj3L483UqL3VXjCnveBtwZ5XKfyCt7zZvrpKAS5TBGdaft8ZFgEiIjK5UCQGd1yvtdtaPDqYtRMPM27kkhJIjnqY4esgltqNwvUGrozVylH5oOzERFdN6z2Cf9j0xlAEAAAAAT1ieooA")
+STRING = os.environ.get("STRING", "BQFj5QgAPJe8d0lWjHEZlERz6CyG1FMmiq4bm4uIWCFnDa_YFF0GJ_6zr-wjkPiwyuu2YHnxHoRS7gC32MpNEvs9LW_SXRrm4rQGEyr1z4WhHjuGZxfS2SqzWb1OzZFL1oat000OtSieRdr800WVXEXyTT1OfXvB6DvgMBIUoZFWDqln9CpUV-yeLXwytB9KG2YFBZhpbLpGAuhsWQWlpyenSsI3TtA9DVdu4dHlZD2Qna1TQZkTl6vsk_oUO0zPSNHJ7W7CnIZ71LNVsTHMjzIOduVjGzmbaj6Ftpp2p6RxuUTZrfMVkR0uQ2n31h266n_3YUzq_ZzgTpBAWWY4vAu-ol-smwAAAAE9YnqKAA")
 BOT_PIC = os.environ.get("BOT_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg")
 
 
